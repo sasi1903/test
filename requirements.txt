@@ -1,0 +1,3 @@
+fastapi
+mangum
+azure-storage-blob
